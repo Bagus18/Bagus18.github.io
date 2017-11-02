@@ -21,3 +21,13 @@ github_username:  bagus18
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: "_post"
+      type: "article"
+    values:
+      layout: "post"
+      author: "Bagus18"
+
