@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-<title>Bagus A</title>
-<meta charset="UTF-8">
-<meta name="theme-color" content="#2196F3">
+<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">+
+<meta name="theme-color" content="#2196F3">
+<meta charset="UTF-8">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 <link rel="stylesheet" href="/aset/css/w3.css">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 <style>
 @media (max-width: 600px) {.fa-info-circle,.fa-heartbeat {display:none;}}footer{display:none}
 </style>
