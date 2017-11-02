@@ -8,7 +8,7 @@ permalink: /blog/
 
   <h1 class="page-heading">Posts</h1>
 
-  <ul class="post-list">
+  <ul class="post-list w3-ul w3-border">
     {% for post in site.posts %}
       <li>
         <span class="fa fa-angle-right w3-text-grey"> {{ post.date | date: "%b %-d, %Y" }} <i class="w3-text-red fa fa-angle-double-right" aria-hidden="true"></i> <a class="post-link w3-text-blue" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
