@@ -11,8 +11,7 @@ permalink: /blog/
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
-        <span class="post-meta w3-text-grey">{{ post.date | date: "%b %-d, %Y" }} <i class="fa fa-pencil-square-o" aria-hidden="true"></i> <a class="post-link w3-text-dark-grey" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-</span>
+        <span class="fa fa-angle-double-right w3-text-grey">{{ post.date | date: "%b %-d, %Y" }} <i class="w3-text-black fa fa-angle-right" aria-hidden="true"></i> <a class="post-link w3-text-dark-grey" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
       </li>
     {% endfor %}
   </ul>
