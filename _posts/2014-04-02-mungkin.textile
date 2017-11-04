@@ -4,11 +4,11 @@ published: false
 ---
 layout: post
 title:  "Mungkin..."
-date:   2014-14-02 11:18:29 +7
+date:   2014-04-02 11:18:29 +7
 categories: quote
 author: admin
 ---
-![mungkin.jpg]({{site.baseurl}}/_posts/mungkin.jpg)
+![mungkin.jpg]({{site.baseurl}}/_posts/img/mungkin.jpg)
 Mungkin suatu saat nanti...
 Entah esok , lusa atau kapan...
 Hanya Tuhan yang tahu...
