@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "Mungkin..."
 date:   2014-04-02 11:18:29 +7
