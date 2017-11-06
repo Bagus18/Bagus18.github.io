@@ -10,13 +10,11 @@ tags : images
    <p> This PHP script will randomly select an image file from a
     folder of images on your webserver.  You can then link to it
     as you would any standard image file and you'll see a random
-    image each time you reload.</p>
-    
-    <p>When you want to add or remove images from the rotation-pool,
+    image each time you reload. When you want to add or remove images from the rotation-pool,
     just add or remove them from the image rotation folder.</p>
 
 <h2>INSTRUCTIONS</h2>
-    <p>1. Modify the $folder setting in the configuration section below.<br />
+    <p> 1. Modify the $folder setting in the configuration section below.<br />
     2. Add image types if needed (most users can ignore that part).<br />
     3. Upload this file (rotate.php) to your webserver.  I recommend<br />
        uploading it to the same folder as your images.<br />
