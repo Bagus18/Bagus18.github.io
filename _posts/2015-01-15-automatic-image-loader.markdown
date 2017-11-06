@@ -14,7 +14,7 @@ tags : images
     just add or remove them from the image rotation folder.</p>
 
 <h4>INSTRUCTIONS</h4>
-<p> 1. Modify the $folder setting in the configuration section below.<br />2. Add image types if needed (most users can ignore that part).<br />3. Upload this file (rotate.php) to your webserver.  I recommend uploading it to the same folder as your images.<br />4. Link to the file as you would any normal image file, like this:
+<p> 1. Modify the <code>$folder</code> setting in the configuration section below.<br />2. Add image types if needed (most users can ignore that part).<br />3. Upload this file (logo.php) to your webserver.  I recommend uploading it to the same folder as your images.<br />4. Link to the file as you would any normal image file, like this:
 {% highlight html %}<img src="http://example.com/images/logo/logo.php">{% endhighlight %}
 <p>5. You can also specify the image to display like this:</p>
 {% highlight html %}<img src="http://example.com/images/logo/rotate.php?img=big.png">{% endhighlight %}
