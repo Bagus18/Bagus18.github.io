@@ -15,7 +15,7 @@ Some browsers try to mitigate this problem by storing theimages in the local cac
 {% highlight html %}
 <html>
 <head>
-<script language = "JavaScript">
+<script language ="JavaScript">
 function preloader()
 {
 heavyImage = new Image();
