@@ -34,9 +34,7 @@ heavyImage.src = "heavyimagefile.jpg";
 <p>In practice, you will probably need to preload more thanjust one image; for example, in a menu bar containing multiple image rollovers,or if you’re trying to create a smooth animation effect. This is not difficult;all you need to do is make use of JavaScript’s arrays, as in the example below:</p>
 
 {% highlight javascript %}
-
 <script language="JavaScript">
-
 function preloader()
 {
 
@@ -60,7 +58,6 @@ function preloader()
      }
 
 }
-
 </script>
 {% endhighlight %}
 
@@ -72,28 +69,20 @@ The onLoad() event handler</p>
 <html>
 <head>
 <script language="JavaScript">
-
 // create an image object
 objImage = new Image();
-
 // set what happens once the image has loaded objImage.onLoad=imagesLoaded();
-
 // preload the image file
 objImage.src='images/image1n.gif';
-
 // function invoked on image load
 function imagesLoaded()
 {   
      document.location.href='index2.html';
 }
-
 </script>
 </head>
-
 <body>
-
 Please wait, loading images...
-
 </body>
 </html>
 {% endhighlight %}
