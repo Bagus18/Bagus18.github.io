@@ -20,7 +20,7 @@ tags : images
        uploading it to the same folder as your images.<br />
     4. Link to the file as you would any normal image file, like this:
 {% highlight html %}
-            <code><img src="http://example.com/images/logo/logo.php">{% endhighlight %}
+            <img src="http://example.com/images/logo/logo.php">{% endhighlight %}
 
     5. You can also specify the image to display like this:
 
