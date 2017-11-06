@@ -18,8 +18,8 @@ tags : images
 {% highlight html %}<img src="http://example.com/images/logo/logo.php">{% endhighlight %}
 <p>5. You can also specify the image to display like this:</p>
 {% highlight html %}<img src="http://example.com/images/logo/rotate.php?img=big.png">{% endhighlight %}
-<p>This would specify that an image named "big.png" located in the images-rotation folder should be displayed.</p>
-<p>That's it, you're done.</p>
+<p>This would specify that an image named "big.png" located in the images-rotation folder should be displayed. 
+That's it, you're done.</p>
 {% highlight php %}
 /* ------------------------- CONFIGURATION -----------------------
 
