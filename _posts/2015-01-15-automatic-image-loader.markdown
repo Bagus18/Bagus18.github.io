@@ -17,7 +17,7 @@ tags : images
 <p> 1. Modify the <code>$folder</code> setting in the configuration section below.<br />2. Add image types if needed (most users can ignore that part).<br />3. Upload this file (logo.php) to your webserver.  I recommend uploading it to the same folder as your images.<br />4. Link to the file as you would any normal image file, like this:
 {% highlight html %}<img src="http://example.com/images/logo/logo.php">{% endhighlight %}
 <p>5. You can also specify the image to display like this:</p>
-{% highlight html %}<img src="http://example.com/images/logo/rotate.php?img=big.png">{% endhighlight %}
+{% highlight html %}<img src="http://example.com/images/logo/logo.php?img=big.png">{% endhighlight %}
 <p>This would specify that an image named "big.png" located in the images-rotation folder should be displayed. 
 That's it, you're done.</p>
 {% highlight php %}
