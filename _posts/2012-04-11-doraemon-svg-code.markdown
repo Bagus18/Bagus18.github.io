@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Doraemin SVG Code"
+title:  "Doraemon SVG Code"
 date:   2012-04-11 11:18:29 +7
 categories: desain art
 tags: Doraemon
@@ -9,17 +9,17 @@ tags: Doraemon
 Belum tau apa itu SVG? Baca <a href="https://id.wikipedia.org/wiki/Scalable_Vector_Graphics">di Wikipedia.</a><br />
 <h4>Keuntungan Penggunaan SVG</h4>
 Keuntungan penggunaan SVG dibanding format gambar yang lain:
-<ul class="w3-ul">
-<li>File sumber SVG dapat dibaca dan modifikasi dengan menggunakan hampir semua tool/text (misalnya notepad).</li>
-<li>File sumber SVG berukuran lebih kecil dan dapat dikompresi dibanding dengan format gambar JPEG dan GIF.</li>
-<li>Gambar dalam format SVG bersifat scalable/diresizing.</li>
-<li>Gambar dalam format SVG dapat dicetak dengan kualitas yang tinggi dan sama baiknya pada berbagai resolusi.</li>
-<li>Gambar dalam format SVG bersifat zoomable. Setiap bagian dari gambar dapat di zoom tanpa degradasi mutu.</li>
-<li>Text dalam SVG “selectable” dan “searchable” (sangat berguna dalam peta).</li>
-<li>SVG dapat bekerja dengan Teknologi Java.</li>
-<li>SVG merupakan “open standard”.</li>
-<li>SVG merupakan murni XML.</li>
-</ul>
+<p>
+<i class="fa fa-hand-o-right"></i> File sumber SVG dapat dibaca dan modifikasi dengan menggunakan hampir semua tool/text (misalnya notepad).<br />
+<i class="fa fa-hand-o-right"></i> File sumber SVG berukuran lebih kecil dan dapat dikompresi dibanding dengan format gambar JPEG dan GIF.<br />
+<i class="fa fa-hand-o-right"></i> Gambar dalam format SVG bersifat scalable/diresizing.<br />
+<i class="fa fa-hand-o-right"></i> Gambar dalam format SVG dapat dicetak dengan kualitas yang tinggi dan sama baiknya pada berbagai resolusi.<br />
+<i class="fa fa-hand-o-right"></i> Gambar dalam format SVG bersifat zoomable. Setiap bagian dari gambar dapat di zoom tanpa degradasi mutu.<br />
+<i class="fa fa-hand-o-right"></i> Text dalam SVG “selectable” dan “searchable” (sangat berguna dalam peta).<br />
+<i class="fa fa-hand-o-right"></i> SVG dapat bekerja dengan Teknologi Java.<br />
+<i class="fa fa-hand-o-right"></i> SVG merupakan “open standard”.<br />
+<i class="fa fa-hand-o-right"></i> SVG merupakan murni XML.<br />
+</p>
 <h4>Contoh SVG Doraemon</h4>
 {% highlight xml %}
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
