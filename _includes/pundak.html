@@ -1,7 +1,7 @@
-<div class="w3-sidebar w3-blue w3-card-4 w3-animate-left" style="width:200px" id="mySidebar">
+<div class="w3-sidebar w3-blue w3-card-4 w3-animate-zoom" style="width:200px" id="mySidebar">
   <div class="w3-bar w3-red">
   <span class="w3-bar-item w3-padding-16">Menu</span>
-  <button onclick="w3_close()" class="w3-bar-item w3-button w3-right w3-padding-16" title="close Sidebar"><i class="fa fa-times" aria-hidden="true"></i></button>
+  <button onclick="w3_close()" class="w3-bar-item w3-button w3-right w3-padding-16 w3-hover-white" title="Tutup"><i class="fa fa-times" aria-hidden="true"></i></button>
   </div>
   <div class="w3-bar-block">
  {% if page.url == '/' %}<a class="w3-bar-item w3-button w3-white"{% else %}<a class="w3-bar-item w3-button w3-hover-white"{% endif %} href="/">Home</a>
@@ -23,7 +23,7 @@
 <div id="main" style="margin-left:200px">
 
 <div class="w3-container w3-display-container w3-top">
-  <span title="open Sidebar" style="display:none" id="openNav" class="w3-button w3-transparent w3-display-topleft w3-xlarge" onclick="w3_open()"><i class="fa fa-bars" aria-hidden="true"></i></span>
+  <span title="Buka" style="display:none" id="openNav" class="w3-button w3-transparent w3-display-topleft w3-xlarge" onclick="w3_open()"><i class="fa fa-bars" aria-hidden="true"></i></span>
   <!-- <h3 class="h3" style="position:fixed;top:36px;">{{ site.title }} </h3> -->
 </div>
 
