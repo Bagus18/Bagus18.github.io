@@ -26,12 +26,12 @@
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header">
+  <header class="post-header w3-animate-top">
     <h1 class="post-title w3-text-blue" itemprop="name headline">{{ page.title }}</h1>
 	<p class="post-meta w3-text-grey w3-small dfn"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if site.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.author }}</span></span>{% endif %}</p>
   </header>
 
-  <div class="post-content w3-animate-fading" itemprop="articleBody">
+  <div class="post-content w3-animate-zoom" itemprop="articleBody">
     {{ content }}
   </div>
 
