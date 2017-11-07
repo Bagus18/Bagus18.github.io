@@ -34,3 +34,5 @@ defaults:
       layout: "post"
       author: "Bagus18"
 
+gems:
+  - jemoji
