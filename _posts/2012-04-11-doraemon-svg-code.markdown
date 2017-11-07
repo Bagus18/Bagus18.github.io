@@ -138,4 +138,4 @@ Keuntungan penggunaan SVG dibanding format gambar yang lain:
                             style="fill:white;stroke:black;stroke-width:2" />
   </g>
 </svg>
-<p>Selamat mencoba :)</p>
+<p>Selamat mencoba :-)</p>
