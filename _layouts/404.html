@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="theme-color" content="#2196F3">
+<meta charset="UTF-8">
+<link rel="apple-touch-icon" href="/aset/manifest/android-icon-192x192.png" />
+<link rel="manifest" href="/aset/manifest/manifest.json">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="stylesheet" href="/aset/css/w3.css">
+<link rel="stylesheet" href="/aset/css/pojare.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+<script>
+window.onload = function(){
+  lineDraw();
+  //repeat for demo purposes
+  setInterval(lineDraw, 5000);
+  
+};
+function lineDraw(){
+var path = document.querySelector('.line-animated path');
+var length = path.getTotalLength();
+// Clear any previous transition
+path.style.transition = path.style.WebkitTransition =
+  'none';
+
+// Set up the starting positions
+path.style.strokeDasharray = length + ' ' + length; 
+path.style.strokeDashoffset = length;
+// Trigger a layout so styles are calculated & the browser 
+// picks up the starting position before animating
+path.getBoundingClientRect();
+// Define our transition
+path.style.transition = path.style.WebkitTransition =
+  'stroke-dashoffset 7s ease-in-out';
+// Go!
+path.style.strokeDashoffset = '0';
+  //0 is the image fully animated, 988.01 is the starting point.
+};
+</script>
+<style>
+body{
+  width: 100%;
+  background: #ffff;
+  height: 100%;
+}
+div{
+  width: 90%;
+  margin: 0 auto;
+}
+svg{
+  width: 100%;
+  height: 75%;
+}
+path{ 
+  
+-webkit-transition: stroke-dashoffset 2s ease-in-out; 
+  transition: stroke-dashoffset 2s ease-in-out;
+}       
+.fa-info-circle,.fa-heartbeat {font-size:200px}.bagi {font-size:21px}article a{color:#f44336;}article a:hover{color:#2196F3;}
+.fa-github,.fa-github-square,.fa-instagram,.fa-gitlab {font-size:50px}ul{list-style-type: none;}
+@media (max-width: 800px) {.fa-info-circle,.fa-heartbeat, footer p span,.bagusak,#none,.bagik{display:none;}.fa-github,.fa-github-square,.fa-instagram,.fa-gitlab {font-size:40px}.bagi {font-size:18px}}
+@media (max-width: 1500px) {#nengah{margin-right:auto;margin-left:132px;}}
+@media (max-width: 1250px) {#nengah{margin-right:auto;margin-left:100px;}}
+@media (max-width: 1200px) {#nengah{margin-left:auto}}
+</style>
+</head>
+ <body>
+  {% include gulu.html %}
+  <div class="w3-row-padding w3-padding-64 w3-container">
+  <div class="w3-content w3-animate-zoom">
+  {{ content }}
+  </div>
+  </div>
+  {% include pupu.html %}
+  {% include sikil.html %}
