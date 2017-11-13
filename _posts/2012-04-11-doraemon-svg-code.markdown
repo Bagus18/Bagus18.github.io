@@ -188,7 +188,6 @@ viewBox="0 0 500 768"
   </g>
  </g>
 </svg>
-
 {% endhighlight %}
 <h4>Hasil</h4>
 <?xml version="1.0" encoding="UTF-8"?>
