@@ -191,7 +191,6 @@ viewBox="0 0 500 768"
 {% endhighlight %}
 <h4>Hasil</h4>
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
 <!-- Creator: Bagus18 (bagus18.github.io -->
 <svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" height="768px" version="1.0" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
 viewBox="0 0 500 768"
