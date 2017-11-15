@@ -6,6 +6,7 @@ categories: syiir
 tags: Gusdur Abdurrahman Wahid
 draft: true
 ---
+<div class="w3-center">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356058335&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br />
 
 <p class="w3-text-indigo w3-large">
@@ -40,9 +41,7 @@ Kang paring rohmat lan kenikmatan<br />
 Rino wengine tanpo pitungan<br />
 <i class="w3-text-gray w3-small">Siang malam tanpa hitungan</i><br />
 Rino wengine tanpo pitungan<br />
-<i class="w3-text-gray w3-small">Siang malam tanpa hitungan</i><br />
-<br />
-
+<i class="w3-text-gray w3-small">Siang malam tanpa hitungan</i><br /><br />
 
 Duh bolo konco, prio wanito<br />
 <i class="w3-text-gray w3-small">Wahai teman, pria wanita</i><br />
@@ -55,7 +54,6 @@ Tembe mburine bakal sengsoro<br />
 Tembe mburine bakal sengsoro<br />
 <i class="w3-text-gray w3-small">Nanti akhirnya pasti sengsara</i><br /><br />
 
-<i class="w3-text-gray w3-small"></i><br />
 Akeh kang apal, Qur'an Hadist se<br />
 <i class="w3-text-gray w3-small">Banyak yang hafal, Qur'an dan Hadist</i><br />
 Seneng Ngafirke marang liyane<br />
@@ -81,7 +79,7 @@ Mulo atine peteng lan Nisto<br />
 Ayo sedulur, jo nglale'ake<br />
 <i class="w3-text-gray w3-small">Ayo saudara, jangan melupakan </i><br />
 Wajib e ngaji sak pranatane<br />
-<i class="w3-text-gray w3-small">Wajibnya belajar mengkaji dan pranatane<a href="#s1"><sup>[1]</sup></a></i><br />
+<i class="w3-text-gray w3-small">Wajibnya belajar mengkaji dan pranatane<sup><a href="#s1">[1]</a></sup></i><br />
 Nggo ngandelake iman Tauhid e<br />
 <i class="w3-text-gray w3-small">Tuk mempertebal iman tauhidnya </i><br />
 Baguse sangu mulyo matine<br />
@@ -120,8 +118,7 @@ Mukjizat rosul dadi pedoman<br />
 Minongko dalan manjing e iman<br />
 <i class="w3-text-gray w3-small">Sebagai jalan masuknya iman</i><br />
 Minongko dalan manjing e iman<br />
-<i class="w3-text-gray w3-small">Sebagai jalan masuknya iman</i><br />
-<br />
+<i class="w3-text-gray w3-small">Sebagai jalan masuknya iman</i><br /><br />
 
 
 Kelawan Allah, kang maha suci<br />
@@ -195,9 +192,8 @@ Utuh mayite ugo ulese<br />
 
 <p id="s1">Pranatane = sistem tingkah laku sosial yang bersifat resmi serta adat-istiadat dan norma yang mengatur tingkah laku itu, dan seluruh perlengkapannya guna memenuhi berbagai kompleks kebutuhan manusia dalam masyarakat</p>
 
-<p id="s2">Suluk = Suluk secara harfiah berarti menempuh (jalan). Dalam kaitannya dengan agama Islam dan sufisme, kata suluk berarti menempuh jalan (spiritual) untuk menuju Allah. Menempuh jalan suluk (bersuluk) mencakup sebuah disiplin seumur hidup dalam melaksanakan aturan-aturan eksoteris agama Islam (syariat) sekaligus aturan-aturan esoteris agama Islam (hakikat). Ber-suluk juga mencakup hasrat untuk Mengenal Diri, Memahami Esensi Kehidupan, Pencarian Tuhan, dan Pencarian Kebenaran Sejati (ilahiyyah), melalui penempaan diri seumur hidup dengan melakukan syariat lahiriah sekaligus syariat batiniah demi mencapai kesucian hati untuk mengenal diri dan Tuhan.
-
-Kata suluk berasal dari terminologi Al-Qur'an, Fasluki, dalam Surat An-Nahl [16] ayat 69, Fasluki subula rabbiki zululan, yang artinya Dan tempuhlah jalan Rabb-mu yang telah dimudahkan (bagimu). Seseorang yang menempuh jalan suluk disebut salik.</p>
+<p id="s2">Suluk = Suluk secara harfiah berarti menempuh (jalan). Dalam kaitannya dengan agama Islam dan sufisme, kata suluk berarti menempuh jalan (spiritual) untuk menuju Allah. Menempuh jalan suluk (bersuluk) mencakup sebuah disiplin seumur hidup dalam melaksanakan aturan-aturan eksoteris agama Islam (syariat) sekaligus aturan-aturan esoteris agama Islam (hakikat). Ber-suluk juga mencakup hasrat untuk Mengenal Diri, Memahami Esensi Kehidupan, Pencarian Tuhan, dan Pencarian Kebenaran Sejati (ilahiyyah), melalui penempaan diri seumur hidup dengan melakukan syariat lahiriah sekaligus syariat batiniah demi mencapai kesucian hati untuk mengenal diri dan Tuhan. Kata suluk berasal dari terminologi Al-Qur'an, Fasluki, dalam Surat An-Nahl [16] ayat 69, Fasluki subula rabbiki zululan, yang artinya Dan tempuhlah jalan Rabb-mu yang telah dimudahkan (bagimu). Seseorang yang menempuh jalan suluk disebut salik.</p>
 
 <p id="s3">Dhohirnya = Fisiknya (yang tampak dimata) </p>
 
+</div>
