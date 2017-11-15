@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Syi'ir Tanpo Waton dari Gusdur"
-date:   2014-04-02 11:18:29 +7
+date:   2012-01-01 11:18:29 +7
 categories: syiir
 tags: Gusdur Abdurrahman Wahid
 draft: true
@@ -200,3 +200,4 @@ Utuh mayite ugo ulese<br />
 Kata suluk berasal dari terminologi Al-Qur'an, Fasluki, dalam Surat An-Nahl [16] ayat 69, Fasluki subula rabbiki zululan, yang artinya Dan tempuhlah jalan Rabb-mu yang telah dimudahkan (bagimu). Seseorang yang menempuh jalan suluk disebut salik.</p>
 
 <p id="s3">Dhohirnya = Fisiknya (yang tampak dimata) </p>
+
