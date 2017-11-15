@@ -173,7 +173,7 @@ Utuh mayite ugo ulese<br />
 <i class="w3-text-gray w3-small">Utuh jasadnya juga kafannya</i><br />
 Utuh mayite ugo ulese<br />
 <i class="w3-text-gray w3-small">Utuh jasadnya juga kafannya</i><br />
-
+</p>
 <p class="w3-text-indigo w3-large">
 يا رسول الله سلام عليك<br />
 <i class="w3-text-blue-gray w3-small">Ya roshulalloh salam mun'alaikat<br /></i>
@@ -187,6 +187,7 @@ Utuh mayite ugo ulese<br />
 <i class="w3-text-blue-gray w3-small">Ya Uuhailaljudiwalkaromi<br /></i>
 </p>
 <!-- end -->
+
 </div>
 <p id="s1">Pranatane = sistem tingkah laku sosial yang bersifat resmi serta adat-istiadat dan norma yang mengatur tingkah laku itu, dan seluruh perlengkapannya guna memenuhi berbagai kompleks kebutuhan manusia dalam masyarakat</p>
 
