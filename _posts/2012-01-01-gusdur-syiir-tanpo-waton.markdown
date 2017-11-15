@@ -5,7 +5,7 @@ date:   2012-01-01 11:18:29 +7
 categories: syiir
 tags: Gusdur Abdurrahman Wahid
 draft: true
----#
+---
 <div class="w3-center">
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356058335&amp;color=%23009688&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br />
 
@@ -187,11 +187,10 @@ Utuh mayite ugo ulese<br />
 <i class="w3-text-blue-gray w3-small">Ya Uuhailaljudiwalkaromi<br /></i>
 </p>
 <!-- end -->
-
+</div>
 <p id="s1">Pranatane = sistem tingkah laku sosial yang bersifat resmi serta adat-istiadat dan norma yang mengatur tingkah laku itu, dan seluruh perlengkapannya guna memenuhi berbagai kompleks kebutuhan manusia dalam masyarakat</p>
 
 <p id="s2">Suluk = Suluk secara harfiah berarti menempuh (jalan). Dalam kaitannya dengan agama Islam dan sufisme, kata suluk berarti menempuh jalan (spiritual) untuk menuju Allah. Menempuh jalan suluk (bersuluk) mencakup sebuah disiplin seumur hidup dalam melaksanakan aturan-aturan eksoteris agama Islam (syariat) sekaligus aturan-aturan esoteris agama Islam (hakikat). Ber-suluk juga mencakup hasrat untuk Mengenal Diri, Memahami Esensi Kehidupan, Pencarian Tuhan, dan Pencarian Kebenaran Sejati (ilahiyyah), melalui penempaan diri seumur hidup dengan melakukan syariat lahiriah sekaligus syariat batiniah demi mencapai kesucian hati untuk mengenal diri dan Tuhan. Kata suluk berasal dari terminologi Al-Qur'an, Fasluki, dalam Surat An-Nahl [16] ayat 69, Fasluki subula rabbiki zululan, yang artinya Dan tempuhlah jalan Rabb-mu yang telah dimudahkan (bagimu). Seseorang yang menempuh jalan suluk disebut salik.</p>
 
 <p id="s3">Dhohirnya = Fisiknya (yang tampak dimata) </p>
 
-</div>
