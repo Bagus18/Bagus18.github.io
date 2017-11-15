@@ -108,7 +108,6 @@ Den tancep ake ing njero dodo<br />
 Den tancep ake ing njero dodo<br />
 <i class="w3-text-gray w3-small">Ditancapkan di dalam dada</i><br /><br />
 
-
 Kumantel ati lan pikiran<br />
 <i class="w3-text-gray w3-small">Menempel dihati dan pikiran</i><br />
 Mrasuk ing badan kabeh njeroan<br />
@@ -119,7 +118,6 @@ Minongko dalan manjing e iman<br />
 <i class="w3-text-gray w3-small">Sebagai jalan masuknya iman</i><br />
 Minongko dalan manjing e iman<br />
 <i class="w3-text-gray w3-small">Sebagai jalan masuknya iman</i><br /><br />
-
 
 Kelawan Allah, kang maha suci<br />
 <i class="w3-text-gray w3-small">Terhadap Allah, yang maha suci</i><br />
@@ -154,7 +152,6 @@ Nabi Muhammad panutan kito<br />
 Nabi muhammad panutan kito<br /><br />
 <i class="w3-text-gray w3-small">Nabi Muhammad tauladan kita</i><br />
 
-
 Ayo nglakoni sekabeane<br />
 <i class="w3-text-gray w3-small">Ayo jalani semuanya</i><br />
 Allah kang bakal ngangkat drajate<br />
@@ -175,7 +172,7 @@ Den gadang Alloh syuargo manggone<br />
 Utuh mayite ugo ulese<br />
 <i class="w3-text-gray w3-small">Utuh jasadnya juga kafannya</i><br />
 Utuh mayite ugo ulese<br />
-<i class="w3-text-gray w3-small">Utuh jasadnya juga kafannya</i><br /><br />
+<i class="w3-text-gray w3-small">Utuh jasadnya juga kafannya</i><br />
 
 <p class="w3-text-indigo w3-large">
 يا رسول الله سلام عليك<br />
@@ -188,6 +185,7 @@ Utuh mayite ugo ulese<br />
 <i class="w3-text-blue-gray w3-small">Ya Uuhailaljudiwalkaromi<br /></i>
 يا أهَيلالجود والكرم<br />
 <i class="w3-text-blue-gray w3-small">Ya Uuhailaljudiwalkaromi<br /></i>
+</p>
 <!-- end -->
 
 <p id="s1">Pranatane = sistem tingkah laku sosial yang bersifat resmi serta adat-istiadat dan norma yang mengatur tingkah laku itu, dan seluruh perlengkapannya guna memenuhi berbagai kompleks kebutuhan manusia dalam masyarakat</p>
