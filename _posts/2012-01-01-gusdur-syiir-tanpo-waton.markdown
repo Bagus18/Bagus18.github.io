@@ -7,7 +7,7 @@ tags: Gusdur Abdurrahman Wahid
 draft: true
 ---
 <div class="w3-center">
-<iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356058335&amp;color=%23009688&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe><br />
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356058335&amp;color=%23009688&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=false"></iframe><br />
 
 <p class="w3-text-indigo w3-large">
 استغفر الله ربّ البرايا<br />
