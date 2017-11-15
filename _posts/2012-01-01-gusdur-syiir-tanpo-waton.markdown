@@ -20,7 +20,7 @@ draft: true
 <i class="w3-text-blue-gray w3-small">Wawaffikni `amalan sholiha</i><br /><br />
 
 يا رسول الله سلام عليك<br />
-<i class="w3-text-blue-gray w3-small">Ya roshulalloh salam mun'alaika</i><br />
+<i class="w3-text-blue-gray w3-small">Ya roshulalloh salam mun'alaik</i><br />
 يا رفيع الشان و الدرج<br />
 <i class="w3-text-blue-gray w3-small">Ya rofi'asyaaniwaddaarojii'</i><br />
 عطفة يا جيرة العالم<br />
