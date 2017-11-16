@@ -1,6 +1,5 @@
 
 timezone: Asia/Jakarta
-locale: id-ID
 encoding: utf-8
 author: Bagus18
 title: Dibatasi Imajinasi
@@ -8,6 +7,7 @@ email: bagus@teknik.io
 description: Limited by Imagination
 baseurl: ""
 url: "https://bagus18.github.io
+
 permalink: note/:categories/:title.md
 github_username:  bagus18
 markdown: kramdown
@@ -15,7 +15,7 @@ markdown: kramdown
 collections:
     notes:
     output: true
-permalink: /:name/
+    permalink: /:name/
 
 defaults:
   - scope:
