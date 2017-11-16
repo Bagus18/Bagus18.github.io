@@ -56,9 +56,9 @@ Tembe mburine bakal sengsoro<br />
 
 Akeh kang apal, Qur'an Hadist se<br />
 <i class="w3-text-gray w3-small">Banyak yang hafal, Qur'an dan Hadist</i><br />
-Seneng Ngafirke marang liyane<br />
+Seneng ngafirke marang liyane<br />
 <i class="w3-text-gray w3-small">Suka mengkafirkan lainnya</i><br />
-Kafir e dewe gak di gatekke<br />
+Kafir e dewe dak di gatekke<br />
 <i class="w3-text-gray w3-small">Kafirnya sendiri tidak dihiraukan</i><br />
 Yen isih kotor ati akale<br />
 <i class="w3-text-gray w3-small">Jika masih kotor hati akalnya</i><br />
@@ -71,16 +71,16 @@ Ing pepaese gebyare ndunyo<br />
 <i class="w3-text-gray w3-small">Dalam hiasan gemerlapnya dunia</i><br />
 Iri lan meri sugi e tonggo<br />
 <i class="w3-text-gray w3-small">Iri dan dengki kekayaan tetangga</i><br />
-Mulo atine peteng lan Nisto<br />
+Mulo atine peteng lan nisto<br />
 <i class="w3-text-gray w3-small">Maka gelap dan nista hatinya</i><br />
-Mulo atine peteng lan Nisto<br />
+Mulo atine peteng lan nisto<br />
 <i class="w3-text-gray w3-small">Maka gelap dan nista hatinya</i><br /><br />
 
 Ayo sedulur, jo nglale'ake<br />
 <i class="w3-text-gray w3-small">Ayo saudara, jangan melupakan </i><br />
 Wajib e ngaji sak pranatane<br />
 <i class="w3-text-gray w3-small">Wajibnya belajar mengkaji dan pranatane<sup><a href="#s1">[1]</a></sup></i><br />
-Nggo ngandelake iman Tauhid e<br />
+Nggo ngandelake iman tauhid e<br />
 <i class="w3-text-gray w3-small">Tuk mempertebal iman tauhidnya </i><br />
 Baguse sangu mulyo matine<br />
 <i class="w3-text-gray w3-small">Bagusnya bekal, mulia matinya </i><br />
@@ -89,7 +89,7 @@ Baguse sangu mulyo matine<br />
 
 Kang aran sholeh, bagus atine<br />
 <i class="w3-text-gray w3-small">Yang disebut sholeh, bagus hatinya </i><br />
-Kerono mapan sari ilmune<br />
+Kerono mapan sari ngilmune<br />
 <i class="w3-text-gray w3-small">Karena lengkap sari ilmunya </i><br />
 Laku torekot lan ma'rifate<br />
 <i class="w3-text-gray w3-small">Menjalankan tarekat dan ma’rifatnya </i><br />
@@ -98,19 +98,20 @@ Ugo hakekot manjing rasane<br />
 Ugo hakekot manjing rasane<br />
 <i class="w3-text-gray w3-small">Juga hakikat, dekat rasanya </i><br /><br />
 
-Alqur'an kodhim wahyu minulyo<br />
+Alqur'an kodhim, wahyu minulyo<br />
 <i class="w3-text-gray w3-small">Al Qur’an qodim, wahyu mulia</i><br />
+Tanpo tinulis biso di woco<br />
 <i class="w3-text-gray w3-small">Tanpa tertulis bisa di baca</i><br />
 Iku wejangan guru waskito<br />
 <i class="w3-text-gray w3-small">Itu petuah guru mumpuni</i><br />
-Den tancep ake ing njero dodo<br />
+Den tancepake ing njero dodo<br />
 <i class="w3-text-gray w3-small">Ditancapkan di dalam dada</i><br />
-Den tancep ake ing njero dodo<br />
+Den tancepake ing njero dodo<br />
 <i class="w3-text-gray w3-small">Ditancapkan di dalam dada</i><br /><br />
 
-Kumantel ati lan pikiran<br />
+Kumantel ati, lan pikiran<br />
 <i class="w3-text-gray w3-small">Menempel dihati dan pikiran</i><br />
-Mrasuk ing badan kabeh njeroan<br />
+Mrasuk ing badan kabeh jeroan<br />
 <i class="w3-text-gray w3-small">Merasuk dibadan dan seluruh hati</i><br />
 Mukjizat rosul dadi pedoman<br />
 <i class="w3-text-gray w3-small">Mukjizat rasul jadi pedoman</i><br />
@@ -130,11 +131,11 @@ Dzikir lan suluk jo nganti lali<br />
 Dzikir lan suluk jo nganti lali<br />
 <i class="w3-text-gray w3-small">Dzikir dan suluk<a href="#s2"><sup>[2]</sup></a> jangan sampai lupa</i><br /><br />
 
-Urip e ayem rumongso aman<br />
+Urip e ayem, rumongso aman<br />
 <i class="w3-text-gray w3-small">Hidupnya tentram merasa aman</i><br />
-Dununge roso tondo yen iman<br />
+Dununge roso tondho yen iman<br />
 <i class="w3-text-gray w3-small">Tandanya rasa kalau punya iman</i><br />
-Sabar nerimo snajan paspasan<br />
+Sabar nerimo snajan pas-pasan<br />
 <i class="w3-text-gray w3-small">Sabar menerima walau pas-pasan</i><br />
 Kabeh tinakdir saking pengeran<br />
 <i class="w3-text-gray w3-small">Semua sudah takdir dari Allah</i><br />
@@ -152,7 +153,7 @@ Nabi Muhammad panutan kito<br />
 Nabi muhammad panutan kito<br /><br />
 <i class="w3-text-gray w3-small">Nabi Muhammad tauladan kita</i><br />
 
-Ayo nglakoni sekabeane<br />
+Ayo nglakoni, sekabehane<br />
 <i class="w3-text-gray w3-small">Ayo jalani semuanya</i><br />
 Allah kang bakal ngangkat drajate<br />
 <i class="w3-text-gray w3-small">Allah yang akan mengangkat derajatnya</i><br />
@@ -163,11 +164,11 @@ Ananging mulyo makom drajat e<br />
 Ananging mulyo makom drajat e<br />
 <i class="w3-text-gray w3-small">Namun mulia tingkat derajat batinnya</i><br /><br />
 
-Lamun palastro ing pungkasane<br />
+Lamun palastro, ing pungkasane<br />
 <i class="w3-text-gray w3-small">Saat ajal datang diakhir hayatnya</i><br />
 Ora kesasar roh lan sukmane<br />
 <i class="w3-text-gray w3-small">tidak tersesat roh dan sukmanya</i><br />
-Den gadang Alloh syuargo manggone<br />
+Den gadang Alloh suwargo manggone<br />
 <i class="w3-text-gray w3-small">Dijaga Allah tempatnya disurga</i><br />
 Utuh mayite ugo ulese<br />
 <i class="w3-text-gray w3-small">Utuh jasadnya juga kafannya</i><br />
@@ -176,7 +177,7 @@ Utuh mayite ugo ulese<br />
 </p>
 <p class="w3-text-indigo w3-large">
 يا رسول الله سلام عليك<br />
-<i class="w3-text-blue-gray w3-small">Ya roshulalloh salam mun'alaikat<br /></i>
+<i class="w3-text-blue-gray w3-small">Ya roshulalloh salam mun'alaik<br /></i>
 يا رفيع الشان و الدرج<br />
 <i class="w3-text-blue-gray w3-small">Ya rofi'asyaaniwaddaarojii'<br /></i>
 عطفة يا جيرة العالم<br />
@@ -189,9 +190,9 @@ Utuh mayite ugo ulese<br />
 <!-- end -->
 
 </div>
-<p id="s1">Pranatane = sistem tingkah laku sosial yang bersifat resmi serta adat-istiadat dan norma yang mengatur tingkah laku itu, dan seluruh perlengkapannya guna memenuhi berbagai kompleks kebutuhan manusia dalam masyarakat</p>
+<p class=" text-mute w3-small" id="s1">Pranatane = sistem tingkah laku sosial yang bersifat resmi serta adat-istiadat dan norma yang mengatur tingkah laku itu, dan seluruh perlengkapannya guna memenuhi berbagai kompleks kebutuhan manusia dalam masyarakat</p>
 
-<p id="s2">Suluk = Suluk secara harfiah berarti menempuh (jalan). Dalam kaitannya dengan agama Islam dan sufisme, kata suluk berarti menempuh jalan (spiritual) untuk menuju Allah. Menempuh jalan suluk (bersuluk) mencakup sebuah disiplin seumur hidup dalam melaksanakan aturan-aturan eksoteris agama Islam (syariat) sekaligus aturan-aturan esoteris agama Islam (hakikat). Ber-suluk juga mencakup hasrat untuk Mengenal Diri, Memahami Esensi Kehidupan, Pencarian Tuhan, dan Pencarian Kebenaran Sejati (ilahiyyah), melalui penempaan diri seumur hidup dengan melakukan syariat lahiriah sekaligus syariat batiniah demi mencapai kesucian hati untuk mengenal diri dan Tuhan. Kata suluk berasal dari terminologi Al-Qur'an, Fasluki, dalam Surat An-Nahl [16] ayat 69, Fasluki subula rabbiki zululan, yang artinya Dan tempuhlah jalan Rabb-mu yang telah dimudahkan (bagimu). Seseorang yang menempuh jalan suluk disebut salik.</p>
+<p class=" text-mute w3-small" id="s2">Suluk = Suluk secara harfiah berarti menempuh (jalan). Dalam kaitannya dengan agama Islam dan sufisme, kata suluk berarti menempuh jalan (spiritual) untuk menuju Allah. Menempuh jalan suluk (bersuluk) mencakup sebuah disiplin seumur hidup dalam melaksanakan aturan-aturan eksoteris agama Islam (syariat) sekaligus aturan-aturan esoteris agama Islam (hakikat). Ber-suluk juga mencakup hasrat untuk Mengenal Diri, Memahami Esensi Kehidupan, Pencarian Tuhan, dan Pencarian Kebenaran Sejati (ilahiyyah), melalui penempaan diri seumur hidup dengan melakukan syariat lahiriah sekaligus syariat batiniah demi mencapai kesucian hati untuk mengenal diri dan Tuhan. Kata suluk berasal dari terminologi Al-Qur'an, Fasluki, dalam Surat An-Nahl [16] ayat 69, Fasluki subula rabbiki zululan, yang artinya Dan tempuhlah jalan Rabb-mu yang telah dimudahkan (bagimu). Seseorang yang menempuh jalan suluk disebut salik.</p>
 
-<p id="s3">Dhohirnya = Fisiknya (yang tampak dimata) </p>
+<p class=" text-mute w3-small"  id="s3">Dhohirnya = Fisiknya (yang tampak dimata) </p>
 
