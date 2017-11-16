@@ -16,7 +16,7 @@ draft: true
 <i class="w3-text-blue-gray w3-small">Astagfirulloh minal khotoya </i><br />
 ربّي زدني علما نافعا<br />
 <i class="w3-text-blue-gray w3-small">Robbi zidni `ilmannaafii’a </i><br />
-يا رفيع الشان و الدرج<br />
+ووفّقني عملا صالحا<br />
 <i class="w3-text-blue-gray w3-small">Wawaffikni `amalan sholiha</i><br /><br />
 
 يا رسول الله سلام عليك<br />
