@@ -4,7 +4,7 @@ title:  "Automatic Image Loader"
 date:   2015-01-15 11:18:29 +7
 categories: code php
 tags : images
-img: https://c.disquscdn.com/uploads/users/20529/6325/avatar92.jpg
+img: https://www.jqueryscript.net/images/Customizable-AJAX-Loader-Plugin-For-jQuery-Mask-Loader.jpg
 ---
 
 <h4>ABOUT</h4>

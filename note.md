@@ -2,6 +2,7 @@
 layout: gawan
 title: Note's
 permalink: /note/
+img: https://openclipart.org/image/2400px/svg_to_png/182517/paper-notes.png
 ---
 
 <div class="home w3-animate-zoom">
