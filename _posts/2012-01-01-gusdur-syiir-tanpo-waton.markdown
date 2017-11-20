@@ -4,10 +4,10 @@ title:  "Syi'ir Tanpo Waton dari Gusdur"
 date:   2012-01-01 11:18:29 +7
 categories: syiir
 tags: Gusdur Abdurrahman Wahid
-draft: true
+img: https://i1.sndcdn.com/artworks-000256426394-2j29mi-t500x500.jpg
 ---
 <div class="w3-center">
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356058335&amp;color=%23009688&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=false"></iframe><br />
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356058335&amp;color=%232196F3&amp;auto_play=false&amp;hide_related=true&amp;show_comments=false&amp;show_user=false&amp;show_reposts=false&amp;show_teaser=false&amp;visual=false"></iframe><br />
 
 <p class="w3-text-indigo w3-large">
 استغفر الله ربّ البرايا<br />
@@ -150,8 +150,8 @@ Iku sunnah e rosul kang mulyo<br />
 <i class="w3-text-gray w3-small">Itu sunahnya rasul yang mulia</i><br />
 Nabi Muhammad panutan kito<br />
 <i class="w3-text-gray w3-small">Nabi Muhammad tauladan kita</i><br />
-Nabi muhammad panutan kito<br /><br />
-<i class="w3-text-gray w3-small">Nabi Muhammad tauladan kita</i><br />
+Nabi muhammad panutan kito<br />
+<i class="w3-text-gray w3-small">Nabi Muhammad tauladan kita</i><br /><br />
 
 Ayo nglakoni, sekabehane<br />
 <i class="w3-text-gray w3-small">Ayo jalani semuanya</i><br />
