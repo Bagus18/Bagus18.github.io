@@ -4,6 +4,7 @@ title:  "Doraemon SVG Code"
 date:   2012-04-11 11:18:29 +7
 categories: desain art
 tags: Doraemon
+img: https://c.disquscdn.com/uploads/users/20529/6325/avatar92.jpg
 ---
 <p>
 Belum tau apa itu SVG? Baca <a href="https://id.wikipedia.org/wiki/Scalable_Vector_Graphics">di Wikipedia.</a><br />
