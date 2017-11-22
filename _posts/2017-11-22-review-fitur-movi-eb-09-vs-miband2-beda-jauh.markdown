@@ -6,7 +6,7 @@ categories: smarband
 tags : movi band eb09
 img: https://s8.postimg.org/f44hiuj3p/IMG_20171121_200627.jpg
 ---
-Kemarin saya dapet hadiah dari mantan sebuah SmartBand brand "movi" tipe EB09 yang bentuk dan desainnya 99% sama persis seperti Mi Band 2, tapi apakah SmarBand ini sama persis dengan Mi Band 2 dari segi fitur dan kecanggihan nya? siah...
+Kemarin saya dapet hadiah dari mantan sebuah SmartBand brand "Movi" tipe EB09 yang bentuk dan desainnya 99% sama persis seperti Mi Band 2, tapi apakah SmarBand ini sama persis dengan Mi Band 2 dari segi fitur dan kecanggihan nya? siah...
 
 Sedikit review nya begini, dari pertama buka dos nya udah gak yakin banget ini akan sama seperti Mi Band 2 walau kata penjualnya sama hanya beda brand (katanya).. zZz
 
