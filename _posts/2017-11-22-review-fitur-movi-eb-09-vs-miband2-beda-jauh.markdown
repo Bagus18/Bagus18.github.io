@@ -6,7 +6,7 @@ categories: smarband
 tags : movi band eb09
 img: https://s8.postimg.org/f44hiuj3p/IMG_20171121_200627.jpg
 ---
-Kemarin saya dapet hadiah dari mantan sebuah SmartBand brand "Mivo" tipe EB09 yang bentuk dan desainnya 99% sama persis seperti Mi Band 2, tapi apakah SmarBand ini sama persis dengan Mi Band 2 dari segi fitur dan kecanggihan nya? siah...
+Kemarin saya dapet hadiah dari mantan sebuah SmartBand brand "movi" tipe EB09 yang bentuk dan desainnya 99% sama persis seperti Mi Band 2, tapi apakah SmarBand ini sama persis dengan Mi Band 2 dari segi fitur dan kecanggihan nya? siah...
 
 Sedikit review nya begini, dari pertama buka dos nya udah gak yakin banget ini akan sama seperti Mi Band 2 walau kata penjualnya sama hanya beda brand (katanya).. zZz
 
@@ -16,7 +16,7 @@ Kedua dari aplikasi, beda dengan mi band 2 yang menggunakan aplikasi Mi Fit tapi
 
 Ketiga agak bingung dengan beberapa tulisan di dos dan buku petunjuk yang menggunakan bahasa indonesia, setelah cari cari katanya smartband ini building di indonesia dan gak jelas dari negara mana, china keknya.
 
-Ke empat setelah dicoba sehari mulai ada kesimpulan, yaitu smarband tipe EB09 dari Mivo ini ada beberapa fitur yang menarik perhatian.
+Ke empat setelah dicoba sehari mulai ada kesimpulan, yaitu smarband tipe EB09 dari movi ini ada beberapa fitur yang menarik perhatian.
 <ol>
 	<li>Tracking step (lumayan akurat)</li>
 	<li>Tracking tidur (lumayan akurat, tapi gak sinkron waktu nya)</li>
