@@ -9,12 +9,12 @@ img: https://openclipart.org/image/2400px/svg_to_png/182517/paper-notes.png
     <ul>
       {% for post in site.posts %}
         {% unless post.next %}
-          <h3>{{ post.date | date: '%Y' }}</h3>
+          <h3 class="w3-text-deep-purple>{{ post.date | date: '%Y' }}</h3>
         {% else %}
           {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
           {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
           {% if year != nyear %}
-            <h3 class="w3-text-indigo">{{ post.date | date: '%Y' }}</h3>
+            <h3 class="w3-text-purple">{{ post.date | date: '%Y' }}</h3>
           {% endif %}
         {% endunless %}
         <li><span class="fa fa-angle-right w3-text-grey"><a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-blue">{{ post.title }}</a></span></li>
