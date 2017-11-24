@@ -17,7 +17,7 @@ img: https://openclipart.org/image/2400px/svg_to_png/182517/paper-notes.png
             <h3 class="w3-text-purple">{{ post.date | date: '%Y' }}</h3>
           {% endif %}
         {% endunless %}
-        <li><span class="fa fa-angle-right w3-text-grey"><a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-blue">{{ post.title }}</a></span></li>
+        <li><span class="fa fa-angle-right w3-text-red"> <a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-blue">{{ post.title }}</a></span></li>
       {% endfor %}
     </ul>
 	
