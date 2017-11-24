@@ -20,3 +20,5 @@ img: https://openclipart.org/image/2400px/svg_to_png/182517/paper-notes.png
         <li class="alink"><a href="{{ site.baseurl }}{{ post.url }}" class="green-link">{{ post.title }}</a></li>
       {% endfor %}
     </ul>
+	
+</div>
