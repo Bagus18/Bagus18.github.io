@@ -357,4 +357,4 @@ viewBox="0 0 500 768"
  </g>
 </svg>
 
-<p>Selamat mencoba :-)</p>
+<p>Selamat mencoba :8</p>
