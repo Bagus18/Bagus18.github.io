@@ -1,5 +1,5 @@
 ---
-layout: ahmad
+layout: bagus
 title: About
 permalink: /about/
 ---
