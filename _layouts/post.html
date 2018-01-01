@@ -1,37 +1,37 @@
 {% include ndas.html %}
  <body>
  <!-- Navbar -->
-<div class="cd-top">
-  <div class="cd-bar cd-blue cd-card-2 cd-left-align cd-large cd-animate-top">
-    <a class="cd-bar-item cd-button cd-hide-medium cd-hide-large cd-opennav cd-right cd-padding-large cd-hover-white cd-large cd-blue" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-	 {% if page.url == '/' %}<a id="nengah" class="cd-bar-item cd-button cd-padding-large cd-white"{% else %}<a id="nengah" class="cd-bar-item cd-button cd-padding-large cd-hover-white"{% endif %} href="/">Home</a>
-	<a class="cd-bar-item cd-button cd-padding-large cd-red cd-hover-white" href="/note/">Note's</a>
-	<!--{% if page.layout == 'post' %}{% else %}{% endif %}--> {% if page.url == '/about/' %}<a  class="cd-bar-item cd-button cd-padding-large cd-white"{% else %}<a class="cd-bar-item cd-button cd-hide-small cd-padding-large cd-hover-white"{% endif %} href="/about/">About</a>
-    <!-- <a href="#" class="cd-bar-item cd-button cd-hide-small cd-padding-large cd-hover-white">Link 2</a>
-    <a href="#" class="cd-bar-item cd-button cd-hide-small cd-padding-large cd-hover-white">Link 3</a>
-    <a href="#" class="cd-bar-item cd-button cd-hide-small cd-padding-large cd-hover-white">Link 4</a>  -->
+<div class="w3-top">
+  <div class="w3-bar w3-blue w3-card-2 w3-left-align w3-large w3-animate-top">
+    <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-opennav w3-right w3-padding-large w3-hover-white w3-large w3-blue" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+	 {% if page.url == '/' %}<a id="nengah" class="w3-bar-item w3-button w3-padding-large w3-white"{% else %}<a id="nengah" class="w3-bar-item w3-button w3-padding-large w3-hover-white"{% endif %} href="/">Home</a>
+	<a class="w3-bar-item w3-button w3-padding-large w3-red w3-hover-white" href="/note/">Note's</a>
+	<!--{% if page.layout == 'post' %}{% else %}{% endif %}--> {% if page.url == '/about/' %}<a  class="w3-bar-item w3-button w3-padding-large w3-white"{% else %}<a class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white"{% endif %} href="/about/">About</a>
+    <!-- <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 3</a>
+    <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white">Link 4</a>  -->
   </div>
 
   <!-- Navbar on small screens  -->
-  <div id="navDemo" class="cd-bar-block cd-white cd-hide cd-hide-large cd-hide-medium cd-large">
-    <a href="/about" class="cd-bar-item cd-button cd-padding-large">About</a>
-    <!--<a href="#" class="cd-bar-item cd-button cd-padding-large">Link 2</a>
-    <a href="#" class="cd-bar-item cd-button cd-padding-large">Link 3</a>
-    <a href="#" class="cd-bar-item cd-button cd-padding-large">Link 4</a> -->
+  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
+    <a href="/about" class="w3-bar-item w3-button w3-padding-large">About</a>
+    <!--<a href="#" class="w3-bar-item w3-button w3-padding-large">Link 2</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 3</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 4</a> -->
   </div>
 </div>
 
- <div class="cd-row-padding cd-padding-64 cd-container cd-card-2">
-  <div class="cd-content">
+ <div class="w3-row-padding w3-padding-64 w3-container w3-card-2">
+  <div class="w3-content">
 {% assign words = content | number_of_words %}
 <article class="post" id="article" itemscope itemtype="http://schema.org/BlogPosting">
 
-  <header class="post-header cd-animate-top">
-    <h1 class="post-title cd-text-blue" itemprop="name headline">{{ page.title }}</h1>
-	<p class="post-meta cd-text-grey cd-small dfn"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if site.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.author }},</span> {% if words < 360 %} ±1 minute read.{% else %} ±{{ words | divided_by:180 }} minute read. {% endif %}</span>{% endif %}</p>
+  <header class="post-header w3-animate-top">
+    <h1 class="post-title w3-text-blue" itemprop="name headline">{{ page.title }}</h1>
+	<p class="post-meta w3-text-grey w3-small dfn"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>{% if site.author %} by <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ site.author }},</span> {% if words < 360 %} ±1 minute read.{% else %} ±{{ words | divided_by:180 }} minute read. {% endif %}</span>{% endif %}</p>
   </header>
 
-  <div class="note post-content cd-animate-zoom" itemprop="articleBody">
+  <div class="note post-content w3-animate-zoom" itemprop="articleBody">
     {{ content }}
   </div>
 

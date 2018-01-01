@@ -1,41 +1,41 @@
-<div class="cd-sidebar cd-blue cd-card-4 cd-animate-left " style="width:200px" id="mySidebar" style="display:none" >
-  <div class="cd-bar cd-red">
-  <span class="cd-bar-item cd-padding-16">Menu</span>
-  <button onclick="cd_close()" class="cd-bar-item cd-button cd-right cd-padding-16 cd-hover-white" title="Tutup"><i class="fa fa-times" aria-hidden="true"></i></button>
+<div class="w3-sidebar w3-blue w3-card-4 w3-animate-left " style="width:200px" id="mySidebar" style="display:none" >
+  <div class="w3-bar w3-red">
+  <span class="w3-bar-item w3-padding-16">Menu</span>
+  <button onclick="w3_close()" class="w3-bar-item w3-button w3-right w3-padding-16 w3-hover-white" title="Tutup"><i class="fa fa-times" aria-hidden="true"></i></button>
   </div>
-  <div class="cd-bar-block">
- {% if page.url == '/' %}<a class="cd-bar-item cd-button cd-white"{% else %}<a class="cd-bar-item cd-button cd-hover-white"{% endif %} href="/">Home</a>
-  {% if page.url == '/note/' %}<a class="cd-bar-item cd-button cd-white"{% else %}<a class="cd-bar-item cd-button cd-hover-white"{% endif %} href="/note/">Blog</a>
-  {% if page.url == '/about/' %}<a  class="cd-bar-item cd-button cd-white"{% else %}<a class="cd-bar-item cd-button cd-hover-white"{% endif %} href="/about/">Tentang</a>
+  <div class="w3-bar-block">
+ {% if page.url == '/' %}<a class="w3-bar-item w3-button w3-white"{% else %}<a class="w3-bar-item w3-button w3-hover-white"{% endif %} href="/">Home</a>
+  {% if page.url == '/note/' %}<a class="w3-bar-item w3-button w3-white"{% else %}<a class="w3-bar-item w3-button w3-hover-white"{% endif %} href="/note/">Blog</a>
+  {% if page.url == '/about/' %}<a  class="w3-bar-item w3-button w3-white"{% else %}<a class="w3-bar-item w3-button w3-hover-white"{% endif %} href="/about/">Tentang</a>
  <!--
-  <div class="cd-dropdown-hover">
-    <a class="cd-button" href="javascript:void(0)">Dropdown <i class="fa fa-caret-down"></i></a>
-    <div class="cd-dropdown-content cd-bar-block cd-card-4">
-      <a class="cd-bar-item cd-button" href="javascript:void(0)">Link 1</a>
-      <a class="cd-bar-item cd-button" href="javascript:void(0)">Link 2</a>
-      <a class="cd-bar-item cd-button" href="javascript:void(0)">Link 3</a>
+  <div class="w3-dropdown-hover">
+    <a class="w3-button" href="javascript:void(0)">Dropdown <i class="fa fa-caret-down"></i></a>
+    <div class="w3-dropdown-content w3-bar-block w3-card-4">
+      <a class="w3-bar-item w3-button" href="javascript:void(0)">Link 1</a>
+      <a class="w3-bar-item w3-button" href="javascript:void(0)">Link 2</a>
+      <a class="w3-bar-item w3-button" href="javascript:void(0)">Link 3</a>
     </div>
   </div>
-  <a class="cd-bar-item cd-button" href="javascript:void(0)">Support</a> -->
+  <a class="w3-bar-item w3-button" href="javascript:void(0)">Support</a> -->
   </div>
 </div>
 
 <div id="main" style="margin-left:200px">
 
-<div class="cd-container cd-display-container cd-top">
-  <span title="Buka" style="display:none" id="openNav" class="cd-button cd-transparent cd-display-topleft cd-xlarge" onclick="cd_open()"><i class="fa fa-bars" aria-hidden="true"></i></span>
+<div class="w3-container w3-display-container w3-top">
+  <span title="Buka" style="display:none" id="openNav" class="w3-button w3-transparent w3-display-topleft w3-xlarge" onclick="w3_open()"><i class="fa fa-bars" aria-hidden="true"></i></span>
   <!-- <h3 class="h3" style="position:fixed;top:36px;">{{ site.title }} </h3> -->
 </div>
 
 </div>
 
 <script>
-function cd_close() {
+function w3_close() {
   document.getElementById("main").style.marginLeft = "0";
   document.getElementById("mySidebar").style.display = "none";
   document.getElementById("openNav").style.display = "inline-block";
 }
-function cd_open() {
+function w3_open() {
   document.getElementById("main").style.marginLeft = "180px";
   document.getElementById("mySidebar").style.width = "180px";
   document.getElementById("mySidebar").style.display = "block";
