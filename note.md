@@ -9,7 +9,7 @@ img: https://openclipart.org/image/2400px/svg_to_png/182517/paper-notes.png
       {% for post in site.posts %}
         {% unless post.next %}
 		<ul>
-          <h3 class="w3-text-blue w3-large">{{ post.date | date: '%Y' }}</h3>
+          <h3 class="w3-text-blue">{{ post.date | date: '%Y' }}</h3>
         {% else %}
           {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
           {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
