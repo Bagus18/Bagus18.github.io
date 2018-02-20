@@ -13,7 +13,7 @@ https://kotsk.wordpress.com/2013/01/24/fw-beat-fi/
 
 Hanya buat yang seperti saya, bingun di tulisan akhir nya volt monitor dari kiprok tigernya di sambung kemana di sini saya kasih gambar wirring original kiprok BeatFI dan Tiger, jadi bisa buat note saya juga nanti pas mau kembalikan ke kiprok standar bawaan beat gak lupa arah kabel & warnanya
 
-<img class="alignnone  wp-image-40" src="https://bagus18.files.wordpress.com/2018/02/full-wafing-beat-fi.jpg?w=300" alt="" width="534" height="495" />
+<img class="w3-center" src="https://s5.postimg.org/kb4lxbzpz/FULL_WAFING_BEAT_FI.jpg"/>
 
 Saya sukses praktek kan di beat fi tahun 2013 saya, dan sekarang motonya jauh lebih stabil arusnya, lampu speedo (led) nya juga awet :D
 
