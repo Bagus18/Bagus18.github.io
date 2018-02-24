@@ -4,7 +4,7 @@ title:  "Mengganti ke Arus DC Beat FI"
 date:   2018-02-16 21:00:00 +7
 categories: electrical
 tags : beat fullwafing
-img: https://s5.postimg.org/kb4lxbzpz/FULL_WAFING_BEAT_FI.jpg
+img: https://s5.postimg.org/urrm1yg53/IMG_20180220_220632.jpg
 ---
 
 Dari <a href="https://kotsk.wordpress.com/2013/01/24/fw-beat-fi/#comment-6709">dulu</a> saya sudah ingin sekali fullwafing motor kesayangan saya ini, tapi karena gak punya tracker magnet jadi ke pending 6 bulanan, nah, kemaren pas abis ganti piston kebetulan itu spull/stator bisa di congkel lewat depan, jadi sekalian aja congkel untuk lepas ground dari lilitan spull alternator nya, saya hanya ikuti tutorial dari om <strong>Novaera</strong> bisa cek dimari
