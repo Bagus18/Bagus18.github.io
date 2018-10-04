@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "Kumpulan Stock Firmware SO-02H"
 date:   2018-10-04 21:00:00 +7
