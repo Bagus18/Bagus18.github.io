@@ -17,9 +17,8 @@ adb devices
 adb shell
 pm uninstall -k --user 0 jp.dmapnavi.navi02
 {% endhighlight %}
-nb: disini kita butuh user yak, jadi kita uninstall apl tsb via --user 0 (0=administrator)
-dah gitu aja, kalau mau hapus hati2, karena kalau salah ga bisa dibalikin lagi, ane pake SO-02H, ane ada refrensi nama2 package docomo nya
-nih
+<b>NB</b>: disini kita butuh user yak, jadi kita uninstall apl tsb via --user 0 (0=administrator)
+dah gitu aja, kalau mau hapus hati2, karena kalau salah ga bisa dibalikin lagi, ane pake SO-02H, ane ada refrensi nama2 package docomo nya nih, tinggal copas aja. <i>be carefull</i>
 {% highlight shell %}
 pm uninstall -k --user 0 com.google.android.apps.docs
 pm uninstall -k --user 0 com.google.android.music
@@ -111,10 +110,10 @@ pm uninstall -k --user 0 com.nttdocomo.android.wipe
 {% endhighlight %}
 
 
-Untuk Xperia X Compact
+Untuk Xperia X Compact (Kredit M Rozy Ardiansyah)
 {% highlight shell %}
- pm uninstall -k --user 0 com.mobileselect.somcprein
- pm uninstall -k --user 0 jp.co.nttdocomo.anshinmode
+pm uninstall -k --user 0 com.mobileselect.somcprein
+pm uninstall -k --user 0 jp.co.nttdocomo.anshinmode
 pm uninstall -k --user 0 jp.co.fsi.fs1seg
 pm uninstall -k --user 0 jp.dmapnavi.navi02
 pm uninstall -k --user 0 com.sony.drbd.reader.other.jp
@@ -233,4 +232,3 @@ pm uninstall -k --user 0 com.sonyericsson.trackid.res.overlay_305
 {% endhighlight %}
 
 Refrensi tutorial ane: https://webruary.net/mobile/2017-06-09/xperia-z5-compact/
-Package X Compact List: M Rozy Ardiansyah
