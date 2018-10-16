@@ -6,7 +6,7 @@ categories: docomo
 tags : docomo xperia aplikasi
 img: https://ftf.andro.plus/img/SO-02H.png
 ---
-Buat catatan ane semata, untuk hapus aplikasi sistem bawaan rom docomo, yaitu dengan cara uninstall via adb shell dengan perintah
+Buat catatan ane semata, untuk hapus aplikasi sistem bawaan rom docomo, yaitu dengan cara uninstall via adb shell dengan perintah (tanpa harus root)
 pm (package manager), untuk disable seharusnya sih bisa, yaitu dengan perintah
 {% highlight shell %}pm disable {% endhighlight %}
 di sini ane praktek langsung uninstall aja biar bersih sekalian, untuk pertama harus punya adb interface di pc untuk komunikasi sama
