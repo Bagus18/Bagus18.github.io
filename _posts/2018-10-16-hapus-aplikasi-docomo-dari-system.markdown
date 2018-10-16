@@ -6,9 +6,10 @@ categories: docomo
 tags : docomo xperia aplikasi
 img: https://ftf.andro.plus/img/SO-02H.png
 ---
-Buat catatan ane semata, untuk hapus aplikasi sistem bawaan rom docomo, yaitu dengan cara uninstall via adb shell dengan perintah (tanpa harus root)
-pm (package manager), untuk disable seharusnya sih bisa, yaitu dengan perintah
-{% highlight shell %}pm disable {% endhighlight %}
+Buat catatan ane semata, untuk hapus aplikasi sistem bawaan rom docomo, yaitu dengan cara uninstall via adb shell dengan perintah <code>pm (package manager)</code> (tanpa harus root), untuk disable seharusnya sih bisa, yaitu dengan perintah
+{% highlight shell %}pm disable pack.age.name {% endhighlight %}
+kalo ga mau hapus atau disable bisa langsung di hide aja dengan perintah
+{% highlight shell %}pm hide pack.age.name {% endhighlight %}
 di sini ane praktek langsung uninstall aja biar bersih sekalian, untuk pertama harus punya adb interface di pc untuk komunikasi sama
 hp nya nantiw, terus debugging usb juga idupin di opsi pengembang, kalo udah, install apl Link2SD kalau ane, buat temuin nama package aplikasinya, misal namanya adalah <code>jp.dmapnavi.navi02</code>
 tinggal command aja via terminal nya, kalau sucsess berarti berhasil, kalau ada 0 nya berarti tdak terinstall, kalau ga boleh, matiin dulu centangan administator perangkat.
@@ -231,4 +232,6 @@ pm uninstall -k --user 0 com.sonymobile.music.youtubeplugin
 pm uninstall -k --user 0 com.sonyericsson.trackid.res.overlay_305
 {% endhighlight %}
 
-Refrensi tutorial ane: https://webruary.net/mobile/2017-06-09/xperia-z5-compact/
+Refrensi tutorial ane:<br />
+https://webruary.net/mobile/2017-06-09/xperia-z5-compact/<br />
+http://smartasw.com/archives/21462117.html
