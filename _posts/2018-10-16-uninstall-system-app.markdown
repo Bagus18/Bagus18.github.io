@@ -12,7 +12,7 @@ kalo ga mau hapus atau disable bisa langsung di hide aja dengan perintah
 {% highlight shell %}pm hide pack.age.name {% endhighlight %}
 di sini ane praktek langsung uninstall aja biar bersih sekalian, untuk pertama harus punya adb interface di pc untuk komunikasi sama
 hp nya nantiw, terus debugging usb juga idupin di opsi pengembang, kalo udah, install apl Link2SD kalau ane, buat temuin nama package aplikasinya, misal namanya adalah <code>jp.dmapnavi.navi02</code>
-tinggal command aja via terminal nya, kalau sucsess berarti berhasil, kalau ada 0 nya berarti tdak terinstall, kalau ga boleh, matiin dulu centangan administator perangkat.
+tinggal command aja via terminal nya, kalau sucsess berarti berhasil, kalau ada 0 nya berarti aplikasi tidak terinstall, kalau ga boleh di uninstall, matiin dulu centangan administator perangkat.
 {% highlight shell %}
 adb devices
 adb shell
