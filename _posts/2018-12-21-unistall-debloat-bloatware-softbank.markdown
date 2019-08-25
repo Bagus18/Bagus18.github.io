@@ -54,6 +54,6 @@ pm uninstall -k --user 0 com.google.android.videos
 pm uninstall -k --user 0 com.google.android.music
 {% endhighlight %}
 
-Versi Docomo lihat post sebelumnya. Refrensi tutorial ane:<br />
-https://webruary.net/mobile/2017-06-09/xperia-z5-compact/<br />
+Versi Docomo lihat post sebelumnya. Refrensi tutorial ane:<br/>
+https://webruary.net/mobile/2017-06-09/xperia-z5-compact/<br/>
 http://smartasw.com/archives/21462117.html
