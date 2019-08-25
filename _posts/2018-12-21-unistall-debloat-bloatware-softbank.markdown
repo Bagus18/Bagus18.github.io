@@ -15,8 +15,9 @@ pm uninstall -k --user 0 jp.softbank.mb.dtm
 {% endhighlight %}
 <b>NB</b>: disini kita butuh user yak, jadi kita uninstall apl tsb via --user 0 (0=administrator)
 dah gitu aja, ane pake 601SO (Xperia XZ), ane dah tulis nama2 packname nya nih, tinggal copas aja, buat balikin aplikasi bawaan softbank langsung factory reset aja. <i>be carefull</i>
-<code>
 #Softbank
+## System App
+{% highlight shell %}
 pm uninstall -k --user 0 jp.softbank.mb.ichinaviclt
 pm uninstall -k --user 0 jp.sony.spot.sp
 pm uninstall -k --user 0 jp.softbank.mb.parentalcontrols
@@ -35,16 +36,20 @@ pm uninstall -k --user 0 jp.softbank.mb.mimamorimap
 pm uninstall -k --user 0 com.felicanetworks.mfm
 pm uninstall -k --user 0 com.felicanetworks.mfc
 pm uninstall -k --user 0 com.mobiroo.xgen
+{% endhighlight %}
 
 #optional
+{% highlight shell %}
 pm uninstall -k --user 0 com.sonyericsson.textinput.chinese
 pm uninstall -k --user 0 com.sonymobile.pobox
 pm uninstall -k --user 0 com.sonymobile.pobox.skin.easy
 pm uninstall -k --user 0 com.sonymobile.pobox.skin.standard
 pm uninstall -k --user 0 com.sonymobile.pobox.skin.gummi
 pm uninstall -k --user 0 com.sonymobile.pobox.skin.wood
+{% endhighlight %}
 
 #3rd apps
+{% highlight shell %}
 pm uninstall -k --user 0 com.spotify.music
 pm uninstall -k --user 0 com.google.android.apps.docs.editors.sheets
 pm uninstall -k --user 0 com.google.android.apps.docs.editors.slides
@@ -52,7 +57,8 @@ pm uninstall -k --user 0 com.google.android.apps.photos
 pm uninstall -k --user 0 com.google.android.talk
 pm uninstall -k --user 0 com.google.android.videos
 pm uninstall -k --user 0 com.google.android.music
-</code>
+{% endhighlight %}
+
 
 Versi Docomo lihat post sebelumnya. Refrensi tutorial ane:<br/>
 https://webruary.net/mobile/2017-06-09/xperia-z5-compact/<br/>
