@@ -28,7 +28,7 @@ pm uninstall -k --user 0 jp.softbank.mb.manualviewer40
 pm uninstall -k --user 0 jp.co.softbank.mb.pim
 pm uninstall -k --user 0 jp.co.softbank.wispr.froyo
 pm uninstall -k --user 0 jp.co.fsi.fs1seg
-pm uninstall -k --user 0 jp.co.optim.orusoxp00
+pm uninstall -k --user 0 jp.co.optim.orusoxp
 pm uninstall -k --user 0 jp.softbank.mobileid.installer
 pm uninstall -k --user 0 jp.softbank.mb.mail
 pm uninstall -k --user 0 jp.softbank.mb.mimamorimap
