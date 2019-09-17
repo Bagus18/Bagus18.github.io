@@ -24,6 +24,7 @@ pm uninstall -k --user 0 jp.softbank.mb.parentalcontrols
 pm uninstall -k --user 0 jp.softbank.mb.dmb
 pm uninstall -k --user 0 jp.softbank.mb.dtm
 pm uninstall -k --user 0 jp.softbank.mb.cbm
+pm uninstall -k --user 0 jp.softbank.mb.cbrl
 pm uninstall -k --user 0 jp.softbank.mb.tdrl
 pm uninstall -k --user 0 jp.softbank.mb.manualviewer40
 pm uninstall -k --user 0 jp.co.softbank.mb.pim
@@ -36,10 +37,14 @@ pm uninstall -k --user 0 jp.softbank.mb.mimamorimap
 pm uninstall -k --user 0 com.felicanetworks.mfm
 pm uninstall -k --user 0 com.felicanetworks.mfc
 pm uninstall -k --user 0 com.mobiroo.xgen
+pm uninstall -k --user 0 jp.co.disney.apps.dm.disneyinstaller
+pm uninstall -k --user 0 jp.co.disney.apps.base.disneymarketapp
 {% endhighlight %}
 
 ## optional
 {% highlight shell %}
+pm uninstall -k --user 0 com.sony.drbd.reader.other.jp
+pm uninstall -k --user 0 com.sonymobile.android.externalkeyboardjp
 pm uninstall -k --user 0 com.sonyericsson.textinput.chinese
 pm uninstall -k --user 0 com.sonymobile.pobox
 pm uninstall -k --user 0 com.sonymobile.pobox.skin.easy
