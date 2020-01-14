@@ -50,7 +50,7 @@ pm uninstall -k --user 0 jp.co.fsi.fs1seg
 pm uninstall -k --user 0 com.sonyericsson.android.contactpicker3
 pm uninstall -k --user 0 com.felicanetworks.mfc
 pm uninstall -k --user 0 com.felicanetworks.mfm
-% endhighlight %}
+{% endhighlight %}
 
 ## optional
 {% highlight shell %}
